@@ -10,9 +10,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "afashio\\push-helpers\\": "src"
+            "afashio\\pushHelpers\\": "src"
         }
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "yiisoft/yii2": "~2.0",
+        "costa-rico/yii2-images": "1.2.0"
+    },
+    "description": ""
 }

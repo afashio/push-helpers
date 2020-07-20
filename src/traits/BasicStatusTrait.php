@@ -1,10 +1,10 @@
 <?php
 
 
-namespace common\traits;
+namespace afashio\pushHelpers\traits;
 
 
-use common\interfaces\BasicStatusInterface;
+use afashio\pushHelpers\interfaces\BasicStatusInterface;
 use Yii;
 use yii\base\InvalidArgumentException;
 

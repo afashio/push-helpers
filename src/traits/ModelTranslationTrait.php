@@ -1,10 +1,10 @@
 <?php
 
 
-namespace common\traits;
+namespace afashio\pushHelpers\traits;
 
 
-use common\models\UploadFile;
+use afashio\pushHelpers\helpers\UploadFile;
 use creocoder\translateable\TranslateableBehavior;
 use Yii;
 
