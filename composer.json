@@ -1,6 +1,6 @@
 {
     "name": "afashio/push-helpers",
-    "type": "library",
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
